@@ -1,0 +1,6 @@
+namespace Planck{
+
+    class ParamGate{
+
+    };
+}
