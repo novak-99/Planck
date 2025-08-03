@@ -44,9 +44,6 @@ namespace Planck{
         return H;
 
     }
-
-    // include constants like H2, LiH, i tak dale
-
 }
 
 #endif
